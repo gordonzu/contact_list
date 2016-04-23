@@ -1,0 +1,36 @@
+{
+  "name": "contact_list",
+  "version": "1.0.0",
+  "description": "mean stack",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongojs": "^2.3.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongojs": "^2.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gordonzu/contact_list.git"
+  },
+  "keywords": [
+    "mongo",
+    "express",
+    "angular",
+    "node"
+  ],
+  "author": "gordonzu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gordonzu/contact_list/issues"
+  },
+  "homepage": "https://github.com/gordonzu/contact_list#readme"
+}
