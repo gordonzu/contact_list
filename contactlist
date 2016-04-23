@@ -1,0 +1,40 @@
+
+
+db.contactlist.insert(
+  [
+    {name: 'Tracy',
+     email: 'tracy@email.com',
+     number: '333-444-6677'
+    },
+    {name: 'John',
+     email: 'john@email.com',
+     number: '222-444-6677'
+    },
+    {name: 'Paul',
+     email: 'paul@email.com',
+     number: '666-444-6677'
+    },
+    {name: 'George',
+     email: 'george@email.com',
+     number: '888-444-6677'
+    },
+    {name: 'Ringo',
+     email: 'ringo@email.com',
+     number: '777-444-6677'
+    },
+    {name: 'Keith',
+     email: 'keith@email.com',
+     number: '999-554-6677'
+    },
+    {name: 'Mick',
+     email: 'mick@email.com',
+     number: '555-444-6677'
+    },
+    {name: 'Charlie',
+     email: 'charlie@email.com',
+     number: '123-456-6677'
+    }
+  ]
+)
+
+
